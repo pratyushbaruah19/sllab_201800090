@@ -1,0 +1,19 @@
+.textdiv{
+    text-align:center;
+}
+
+.textdiv input{
+    height:30px;
+    width:50%;
+}
+
+.Button{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 70%;
+}
+
+.List ul{
+    list-style-type: none;
+    text-align:center;
+}
